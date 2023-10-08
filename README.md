@@ -9,3 +9,5 @@ Flask is based on two key components:
 2.Jinja2 template engine. 
 
 WSGI is a specification for web applications and Jinja2 renders web pages.
+
+Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2. 
